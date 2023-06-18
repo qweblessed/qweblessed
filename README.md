@@ -1,4 +1,4 @@
-Hi here 👋 My name is Danil
+Hi 👋 My name is Danil
 ======================
 
 Blockchain developer
