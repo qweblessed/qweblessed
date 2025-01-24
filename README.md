@@ -37,3 +37,5 @@ Blockchain developer
 ### Socials
 
 <a href="https://www.linkedin.com/in/daniil-dovgal-86a781223/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="https://devpost.com/danil-dovgal" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fdevpost&psig=AOvVaw1eokU2UBZldnBV_ExJ0AdL&ust=1737791095934000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMjhpLnujYsDFQAAAAAdAAAAABAE" width="32" height="32" /></a></p>
+
